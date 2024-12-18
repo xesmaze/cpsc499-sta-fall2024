@@ -14,3 +14,4 @@ We recommend that you use Google Colab as your notebook service provider for cod
 You will also find some exercises posted every week in the same folder. It would be to your benefit to explore the exercises every week. They are designed to be completed in under 1 hr.
 Feel free to submit your completed exercises (via shared link) for extra credit.
 
+Reference Texts can be accessed here : https://drive.google.com/drive/folders/1wnsGmbF2XCWHlYZpJ9OWxfFxAyJv_RmA
